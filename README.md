@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MightyAsad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in php and wordpress development
+- 🌱 I’m currently learning php and wordpress hooks
 - 📫 mailto:mahdiasadollah9805@gmail.com
 
 <!---
