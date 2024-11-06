@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MightyAsad
-- 👀 I’m interested in php and wordpress development
-- 🌱 I’m currently learning php and wordpress hooks
+- 👀 I’m interested in making useful digital products
+- 🌱 I’m currently learning php, Laravel and front-end frameworks
 - 📫 mailto:mahdiasadollah9805@gmail.com
 
 <!---
